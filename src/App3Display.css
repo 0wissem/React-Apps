@@ -1,0 +1,26 @@
+.App {
+    text-align: center;
+  }
+  
+  h3{
+    color: gray;
+    text-align: center;
+    position: relative;
+    font-size: 200%;
+  }
+  .display{
+      display: flex;
+      flex-direction: column;
+      position: relative;
+      align-items: center;
+  }
+  p{
+    color: gray;
+    font-size: 200%;
+  }
+  .male{
+      border : 5px solid blue
+  }
+  .female{
+    border : 5px solid pink
+}

@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+h3{
+  background-color: black;
+  color: white;
+  text-align: center;
+  /* display: inline-block; */
+  position: relative;
+  width: 8%;
+  left: 46%;
+  transform: rotate(5deg);
+}
