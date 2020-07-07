@@ -18,14 +18,14 @@ class App extends Component {
   person1 = () => {
     this.setState(state => ({ 
       name:"Valverdiii",
-      desc:"Nos Futuro",
+      desc:"djdhjksjd",
       photo: photo1
      }));
   };
   person2 = () => {
     this.setState(state => ({ 
         name:"Marcelo",
-        desc:"mi amore",
+        desc:"zekdnzd",
         photo: photo2
 
      }));   
@@ -33,7 +33,7 @@ class App extends Component {
   person3 = () => {
     this.setState(state => ({ 
         name:"Toni Kroos",
-        desc:" EL Mecanico",
+        desc:" djdn d",
         photo: photo3
      }));
   };
